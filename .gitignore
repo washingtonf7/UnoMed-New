@@ -1,1 +1,5 @@
 /target/
+*.class
+*.war
+*.classpath
+*.settings/org.eclipse.wst.common.component
